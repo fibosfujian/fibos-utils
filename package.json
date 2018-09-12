@@ -1,0 +1,25 @@
+{
+  "name": "fibos-utils",
+  "version": "0.1.0",
+  "description": "FIBOS utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibosfujian/fibos-utils.git"
+  },
+  "keywords": [
+    "fibos"
+  ],
+  "author": "FIBOS Fujian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fibosfujian/fibos-utils/issues"
+  },
+  "homepage": "https://github.com/fibosfujian/fibos-utils#readme",
+  "dependencies": {
+    "fibos.js": "^0.3.0"
+  }
+}
